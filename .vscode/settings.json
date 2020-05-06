@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/Serge/opt/miniconda3/envs/web/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true
+}

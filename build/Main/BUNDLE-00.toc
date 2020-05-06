@@ -1,0 +1,1 @@
+([('Main', '/Users/Serge/VS Workspace/newproj/dist/Main', 'EXECUTABLE')],)
